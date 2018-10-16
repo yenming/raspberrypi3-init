@@ -32,7 +32,13 @@ Note:
 ```
 
 
+### Install Node.js on Raspberry Pi
 
+Install Git
+
+```
+$ sudo apt-get install git
+```
 
 ### Install Node.js on Raspberry Pi
 
