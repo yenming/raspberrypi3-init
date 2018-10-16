@@ -2,7 +2,7 @@
 
 ### Adding the network details to the Raspberry Pi
 
-canning for wireless networks:
+Scanning for wireless networks:
 
 ```
 $ sudo iwlist wlan0 scan
