@@ -18,7 +18,7 @@ Go to the bottom of the file and add the following:
 ```
 network={
     ssid="network name"
-    psk="wifi Password"
+    psk="network password"
 }
 ```
 
