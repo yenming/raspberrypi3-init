@@ -1,5 +1,21 @@
 # raspberry pi 3 初始設定
 
+### Adding the network details to the Raspberry Pi
+Open the wpa-supplicant configuration file in vim:
+
+```
+sudo vim /etc/wpa_supplicant/wpa_supplicant.conf
+```
+
+Go to the bottom of the file and add the following:
+
+```
+network={
+    ssid="network name"
+    psk="wifi Password"
+}
+```
+
 
 ### Install Node.js on Raspberry Pi
 
