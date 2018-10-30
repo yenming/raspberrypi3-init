@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Program:
-# This is Pi3-node-env
+# This is Pi3-env
 # History:
 # 2018/10/16
 
@@ -19,6 +19,10 @@ sudo apt-get install -y nodejs;
 
 read -p "\n ##### Check that the installation was successful, and the version number of Node.js ##### \n" ;
 node -v;
+
+read -p "\n ##### Install vim  ##### \n" ;
+sudo apt-get install vim;
+
 
 read -p "\n ##### Now install Finish #####\n" ;
 
