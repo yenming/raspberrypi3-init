@@ -79,3 +79,8 @@ Check that the installation was successful, and the version number of Node.js wi
 $ node -v
 
 ```
+### Install vim on Raspberry Pi
+
+```
+$ sudo apt-get install vim
+```
