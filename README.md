@@ -84,3 +84,10 @@ $ node -v
 ```
 $ sudo apt-get install vim
 ```
+
+###  Update on Raspberry Pi
+
+```
+$ sudo apt-get update
+```
+
