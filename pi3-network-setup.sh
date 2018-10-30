@@ -4,6 +4,7 @@
 # This is Pi3-network-setup 
 # History:
 # 2018/10/16
+# 待完成
 
 PATH=/etc/wpa_supplicant/
 export PATH
